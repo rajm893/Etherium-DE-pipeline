@@ -1,0 +1,5 @@
+Potential space savings by removing logs_bloom: 666983168.0 bytes
+Potential space savings by removing sha3_uncles: 83372896.0 bytes
+Potential space savings by removing transactions_root: 83372896.0 bytes
+Potential space savings by removing state_root: 83372896.0 bytes
+Potential space savings by removing receipts_root: 83372896.0 bytes

@@ -11,37 +11,42 @@ Welcome to the repository of my Ethereum Cryptocurrency Analysis! This project e
 - Assessment of data overhead in Ethereum blocks.
 - Monitoring the gas consumption pattern of smart contracts over time.
 
+## Dataset Overview
+- **Timeline**: September 2022 to September 2023 (Last 1 year)
+- **Size**:
+  - **Blocks**: 2.61 million records
+  - **Contracts**: 12.06 million records
+  - **Transactions**: 383.94 million records
+
+## [CHECK MY JUPYTER NOTEBOOK FOR MORE DETAILS](etherium-data-analysis.ipynb)
+
 ## 📌 Analysis Breakdown:
 
-## ![Architecture](image.png) Architecture
+### ![Architecture](image.png) Architecture
 ![Architecture](outputs/etherium-data-pipeline.jpeg)
 ### 📊 Transaction Trends:
 **Objective**: To unearth the trends in Ethereum transactions over time, showcased via bar plots.
-- ![Monthly Transaction Count Plot](outputs/monthly_transaction_count.png)
-- ![Monthly Average Transaction Value Plot](outputs/monthly_avg_transaction_value.png)
+- [Monthly Transaction Count Plot](outputs/monthly_transaction_count.png)
+- [Monthly Average Transaction Value Plot](outputs/monthly_avg_transaction_value.png)
   
-[More Details](#analysis-based-on-transactions)
 
 ### 📈 Top 10 Smart Contracts:
 **Objective**: Identify the top 10 smart contracts that have received the highest Ether.
 - [Results: Top 10 Smart Contracts](outputs/top_smart_contracts.txt)
 
-[More Details](#objectives)
-
 ### 🏆 Top 10 Miners:
 **Objective**: List the top miners based on the total block sizes they've mined.
-- [Results: Console Output](#top-10-miners)
+- [Results: Console Output](outputs/Top_10_Miners.txt)
 
 ### 💼 Data Overhead Analysis:
 **Objective**: Estimation of space savings by pruning specific columns from the cryptocurrency blocks table.
-- [Results: Console Output](#data-overhead-analysis)
+- [Results: Console Output](outputs/Data_Overhead.txt)
 
 ### ⛽ GAS Guzzlers:
 **Objective**: Examine the changes in gas price & gas used for Ethereum's contract transactions.
-- [Average Gas Price](outputs/avg_gas_price.txt)
-- [Average Gas Used for Contracts](outputs/avg_gas_used.txt)
+- [Average Gas Price](outputs/average_gas_price_each_month.png)
+- [Average Gas Used for Contracts](outputs/Average_gas_used_each_month.png)
 
-[More Details](#gas-guzzlers)
 
 ## 🚀 Tech Stack:
 - **Data Source**: Google BigQuery
@@ -50,4 +55,5 @@ Welcome to the repository of my Ethereum Cryptocurrency Analysis! This project e
 
 ---
 
-### 📂 Project Structure:
+🙋 Feedback:
+Feel free to raise issues or provide feedback to enhance this project. If you find this repository useful, please consider giving it a ⭐!

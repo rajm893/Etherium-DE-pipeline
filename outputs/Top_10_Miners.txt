@@ -1,0 +1,10 @@
+Miner: 0xdafea492d9c6733ae3d56b7ed1adb60692c98bc5, Total Block Size: 47,723,868,272
+Miner: 0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5, Total Block Size: 45,788,752,958
+Miner: 0x690b9a9e9aa1c9db991c7721a92d351db4fac990, Total Block Size: 40,184,866,181
+Miner: 0x1f9090aae28b8a3dceadf281b0f12828e676c326, Total Block Size: 33,178,696,097
+Miner: 0x388c818ca8b9251b393131c08a736a67ccb19297, Total Block Size: 19,215,027,020
+Miner: 0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97, Total Block Size: 8,344,971,563
+Miner: 0x4675c7e5baafbffbca748158becba61ef3b0a263, Total Block Size: 7,988,564,449
+Miner: 0xbaf6dc2e647aeb6f510f9e318856a1bcd66c5e19, Total Block Size: 7,152,296,510
+Miner: 0xf2f5c73fa04406b1995e397b55c24ab1f3ea726c, Total Block Size: 4,227,939,966
+Miner: 0x5124fcc2b3f99f571ad67d075643c743f38f1c34, Total Block Size: 3,608,999,313
