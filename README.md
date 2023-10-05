@@ -23,7 +23,7 @@ Welcome to the repository of my Ethereum Cryptocurrency Analysis! This project e
 ## 📌 Analysis Breakdown:
 
 ### ![Architecture](image.png) Architecture
-![Architecture](outputs/etherium-data-pipeline.jpeg)
+![Architecture](outputs/etherium-data-pipeline.png)
 ### 📊 Transaction Trends:
 **Objective**: To unearth the trends in Ethereum transactions over time, showcased via bar plots.
 - [Monthly Transaction Count Plot](outputs/monthly_transaction_count.png)
